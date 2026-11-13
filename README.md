@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1200&color=329DFD&center=true&vCenter=true&width=850&height=65&lines=Hi+%F0%9F%91%8B%2C+I%27m+Ayomiposi+Akinwumi;Software+Developer;Mobile+App+Developer;UI%2FUX+Designer" alt="Ayomiposi Akinwumi" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ayjed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ayjed&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ### 🚀 Building Mobile, Web & Digital Experiences
@@ -75,19 +75,34 @@ const ayomiposi = {
 
 ### 📊 GitHub Statistics
 
-<img src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub Statistics" />
+<a href="https://github.com/ayjed">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=ayjed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"
+    alt="GitHub Overview"
+  />
+</a>
+
+<a href="https://github.com/ayjed?tab=repositories">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
+    alt="Most Used Languages"
+  />
+</a>
+
+<p>
+  <sub>Live repository statistics. See my official GitHub contribution history below.</sub>
+</p>
 
 </div>
 
 ---
 
 <!--
-Contribution snake animation is temporarily hidden
-until GitHub Actions is unlocked and the output
-branch contains github-snake-dark.svg and github-snake.svg.
-
-To enable it later, remove the outer HTML comment
-markers surrounding the section below.
+Contribution snake temporarily hidden.
+Enable this section after your GitHub Actions
+workflow successfully creates the output branch.
 -->
 
 <!-- SNAKE SECTION - START
@@ -97,9 +112,19 @@ markers surrounding the section below.
 ### 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </picture>
 
 </div>
