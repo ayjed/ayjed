@@ -3,7 +3,7 @@
 
 <!-- Animated Introduction -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1200&color=329DFD&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I%27m+Ayomiposi+Akinwumi;UI%2FUX+Designer;Software+Developer;Mobile+App+Developer"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1200&color=329DFD&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I%27m+Ayomiposi+Akinwumi;Software+Developer;Mobile+App+Developer;UI%2FUX+Designer"
   alt="Ayomiposi Akinwumi"
 />
 
