@@ -2,29 +2,27 @@
 <div align="center">
 
 <!-- Animated Introduction -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1200&color=329DFD&center=true&vCenter=true&width=850&height=65&lines=Hi+%F0%9F%91%8B%2C+I%27m+Ayomiposi+Akinwumi;Software+Developer;Mobile+App+Developer;UI%2FUX+Designer" alt="Ayomiposi Akinwumi" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1200&color=329DFD&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I%27m+Ayomiposi+Akinwumi;Software+Developer;Mobile+App+Developer;UI%2FUX+Designer"
+  alt="Ayomiposi Akinwumi"
+/>
 
+<!-- Profile Views -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ayjed&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=ayjed&label=Profile%20Views&color=0891B2&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
-### 🚀 Building Mobile, Web & Digital Experiences
+<h3>
+  <img src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=%2338BDF8" width="20" height="20" alt="" />
+  Building Mobile, Web & Digital Experiences
+</h3>
 
 **Building useful software, intuitive mobile apps, and thoughtful digital experiences.**
 
 *Turning ideas into digital experiences that matter.*
-
-<p>
-  <a href="https://www.motekra.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/ayjed?tab=repositories">
-    <img src="https://img.shields.io/badge/MY%20PROJECTS-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  </a>
-  <a href="https://github.com/ayjed/PICKY-X">
-    <img src="https://img.shields.io/badge/PICKY--X-6D42CB?style=for-the-badge&logo=flutter&logoColor=white" alt="PICKY-X" />
-  </a>
-</p>
 
 </div>
 
@@ -32,15 +30,24 @@
 
 <div align="center">
 
-### 🛠️ Skills & Tools
+<h3>
+  <img src="https://api.iconify.design/lucide/wrench.svg?color=%2338BDF8" width="19" height="19" alt="" />
+  Skills & Tools
+</h3>
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,git,github,docker,figma,vscode,postman&theme=dark&perline=9" alt="Skills and Tools" />
+<img
+  src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,git,github,docker,figma,vscode,postman&theme=dark&perline=9"
+  alt="Skills and Tools"
+/>
 
 </div>
 
 ---
 
-### 👨‍💻 What I'm Currently Working On
+<h3>
+  <img src="https://api.iconify.design/lucide/code-2.svg?color=%2338BDF8" width="19" height="19" alt="" />
+  What I'm Currently Working On
+</h3>
 
 ```javascript
 const ayomiposi = {
@@ -58,40 +65,38 @@ const ayomiposi = {
 
 <div align="center">
 
-### 📊 GitHub Statistics
+<h3>
+  <img src="https://api.iconify.design/lucide/activity.svg?color=%2338BDF8" width="19" height="19" alt="" />
+  GitHub Statistics
+</h3>
 
 <a href="https://github.com/ayjed">
   <img
     src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8"
-    alt="Ayomiposi GitHub Statistics"
+    alt="GitHub Streak Statistics"
     width="75%"
   />
 </a>
-
-<p>
-  <a href="https://github.com/ayjed?tab=overview">
-    <img
-      src="https://img.shields.io/badge/VIEW%20CONTRIBUTION%20ACTIVITY-0891B2?style=for-the-badge&logo=github&logoColor=white"
-      alt="Contribution Activity"
-    />
-  </a>
-</p>
 
 </div>
 
 ---
 
 <!--
-Contribution snake temporarily hidden.
-Enable after GitHub Actions generates
-the output branch.
+SNAKE ANIMATION
+
+Temporarily hidden until GitHub Actions
+successfully generates the output branch.
+
+Remove the surrounding comment markers
+to enable it after the files are generated.
 -->
 
 <!-- SNAKE SECTION - START
 
 <div align="center">
 
-### 🐍 Contribution Activity
+<h3>Contribution Activity</h3>
 
 <picture>
   <source
@@ -127,19 +132,38 @@ SNAKE SECTION - END -->
 
 <div align="center">
 
-### 🤝 Connect With Me
+<h3>
+  <img src="https://api.iconify.design/lucide/mail.svg?color=%2338BDF8" width="19" height="19" alt="" />
+  Connect With Me
+</h3>
 
-<a href="https://github.com/ayjed">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.motekra.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
+<p>
+  <a href="https://www.motekra.com">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://github.com/ayjed?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/MY%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"
+      alt="My Projects"
+    />
+  </a>
+  <a href="https://github.com/ayjed/PICKY-X">
+    <img
+      src="https://img.shields.io/badge/PICKY--X-000000?style=for-the-badge&logo=flutter&logoColor=white"
+      alt="PICKY-X"
+    />
+  </a>
+</p>
 
-<br><br>
+<br>
 
 **Open to collaborations, exciting projects, and new opportunities.**
 
-<sub>Ayomiposi Akinwumi • @ayjed • Motekra</sub>
+<br><br>
+
+<sub>Ayomiposi Akinwumi · @ayjed · Motekra</sub>
 
 </div>
