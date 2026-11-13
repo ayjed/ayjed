@@ -77,22 +77,19 @@ const ayomiposi = {
 
 <a href="https://github.com/ayjed">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ayjed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"
-    alt="GitHub Overview"
-  />
-</a>
-
-<a href="https://github.com/ayjed?tab=repositories">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-    alt="Most Used Languages"
+    src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8"
+    alt="Ayomiposi GitHub Statistics"
+    width="75%"
   />
 </a>
 
 <p>
-  <sub>Live repository statistics. See my official GitHub contribution history below.</sub>
+  <a href="https://github.com/ayjed?tab=overview">
+    <img
+      src="https://img.shields.io/badge/VIEW%20CONTRIBUTION%20ACTIVITY-0891B2?style=for-the-badge&logo=github&logoColor=white"
+      alt="Contribution Activity"
+    />
+  </a>
 </p>
 
 </div>
@@ -101,8 +98,7 @@ const ayomiposi = {
 
 <!--
 Contribution snake temporarily hidden.
-Enable this section after your GitHub Actions
-workflow successfully creates the output branch.
+Enable after GitHub Actions generates the output branch.
 -->
 
 <!-- SNAKE SECTION - START
