@@ -58,21 +58,6 @@ const ayomiposi = {
 
 <div align="center">
 
-### 📌 Featured Projects
-
-</div>
-
-| Project | My Role | Explore |
-|:---|:---|:---|
-| **PICKY-X** | Mobile application development | [Source Code](https://github.com/ayjed/PICKY-X) |
-| **MQuiz** | Complete mobile application development | [Google Play](https://play.google.com/store/apps/details?id=com.togafrica.mquiz) |
-| **GlobalBill** | Backend systems and services | [Google Play](https://play.google.com/store/apps/details?id=com.togafrica.globalbill) |
-| **Motekra** | Developer portfolio and digital brand | [Visit Website](https://www.motekra.com) |
-
----
-
-<div align="center">
-
 ### 📊 GitHub Statistics
 
 <a href="https://github.com/ayjed">
@@ -98,7 +83,8 @@ const ayomiposi = {
 
 <!--
 Contribution snake temporarily hidden.
-Enable after GitHub Actions generates the output branch.
+Enable after GitHub Actions generates
+the output branch.
 -->
 
 <!-- SNAKE SECTION - START
