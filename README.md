@@ -3,7 +3,7 @@
 
 <!-- Animated Introduction -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1200&color=329DFD&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I%27m+Ayomiposi+Akinwumi;Software+Developer;Mobile+App+Developer;UI%2FUX+Designer"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1200&color=329DFD&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I%27m+Ayomiposi+Akinwumi;UI%2FUX+Designer;Software+Developer;Mobile+App+Developer"
   alt="Ayomiposi Akinwumi"
 />
 
@@ -101,13 +101,13 @@ const currentFocus = {
 ---
 
 <!--
-SNAKE ANIMATION
+CONTRIBUTION SNAKE ANIMATION
 
 Temporarily hidden until GitHub Actions
 successfully generates the output branch.
 
 Remove the surrounding comment markers
-to enable it after the files are generated.
+once the animation files are available.
 -->
 
 <!-- SNAKE SECTION - START
@@ -164,7 +164,8 @@ SNAKE SECTION - END -->
   <a href="https://github.com/ayjed" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="https://www.motekra.com" title="Motekra Portfolio"><img src="https://raw.githubusercontent.com/ayjed/MOTEKRA/main/public/assets/brand/motekra-mark.png" width="44" height="44" alt="Motekra" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/akinwumi-ayomiposi/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://wa.me/2347067664476" title="Chat on WhatsApp"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="44" height="44" alt="WhatsApp" /></a>
+  <a href="https://wa.me/2347067664476" title="Chat on WhatsApp"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="44" height="44" alt="WhatsApp" /></a>&nbsp;&nbsp;
+  <a href="mailto:akinwumiayomiposi76@gmail.com" title="Send me an Email"><img src="https://api.iconify.design/logos/google-gmail.svg" width="44" height="44" alt="Email" /></a>
 </p>
 
 <p align="center">
