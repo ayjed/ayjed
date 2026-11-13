@@ -1,22 +1,56 @@
-<!-- PROFILE: Ayomiposi Akinwumi | github.com/ayjed -->
+
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ayomiposi Akinwumi — Software Developer | Motekra" width="100%" />
+<!-- Animated Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=2900&pause=1200&color=329DFD&center=true&vCenter=true&repeat=true&width=820&height=55&lines=Hi+%F0%9F%91%8B%2C+I%27m+Ayomiposi+Akinwumi" alt="Hi, I'm Ayomiposi Akinwumi" />
 
-<!-- Animated typing: the headline continues to work even if a stats service is unavailable. -->
-<a href="https://www.motekra.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=850&color=35CFE9&center=true&vCenter=true&width=750&height=52&lines=Software+Developer;Flutter+%26+Mobile+App+Development;Backend+Engineering;Building+Digital+Products+at+Motekra" alt="Animated introduction: Software Developer, Flutter and Mobile Apps, Backend Engineering, Motekra" />
-</a>
+<br>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=ayjed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<br><br>
+
+<!-- Animated Roles -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2700&pause=1100&color=35CFE9&center=true&vCenter=true&repeat=true&width=740&height=48&lines=Software+Developer;Mobile+App+Developer;UI%2FUX+Designer" alt="Software Developer, Mobile App Developer, UI/UX Designer" />
+
+### 🚀 Building Mobile, Web & Digital Experiences
+
+**Building practical digital products, from intuitive applications to reliable systems.**
+
+*Turning complex ideas into experiences people can actually use.*
 
 <p>
-  <a href="https://www.motekra.com"><img src="https://img.shields.io/badge/MOTEKRA-Visit%20Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Motekra Website" /></a>
-  <a href="https://github.com/ayjed?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-242938?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub projects" /></a>
-  <a href="https://github.com/ayjed/PICKY-X"><img src="https://img.shields.io/badge/Featured-PICKY--X-7354CC?style=for-the-badge&logo=flutter&logoColor=white" alt="Featured PICKY-X application" /></a>
+  <a href="https://www.motekra.com">
+    <img src="https://img.shields.io/badge/MOTEKRA-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Motekra" />
+  </a>
+  <a href="https://github.com/ayjed?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-My%20Projects-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <a href="https://github.com/ayjed/PICKY-X">
+    <img src="https://img.shields.io/badge/Featured-PICKY--X-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white" alt="PICKY-X" />
+  </a>
 </p>
 
-**I build useful digital products — from mobile applications to the systems behind them.**
+</div>
 
-<sub>Software Development &nbsp;•&nbsp; Mobile Apps &nbsp;•&nbsp; Backend Engineering &nbsp;•&nbsp; UI/UX</sub>
+---
+
+<div align="center">
+
+### 💻 Tech Stack
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
 </div>
 
@@ -24,19 +58,35 @@
 
 ### 👨‍💻 A Little About Me
 
-I'm **Ayomiposi Akinwumi**, a software developer building and improving digital products through **Motekra**. I care about useful features, thoughtful interfaces, and dependable engineering.
+I'm **Ayomiposi Akinwumi**, a software developer passionate about creating functional, user-friendly digital products.
+
+I build mobile applications, work on backend systems, and design thoughtful user experiences through **Motekra**.
 
 ```javascript
 const ayomiposi = {
   name: "Ayomiposi Akinwumi",
   brand: "Motekra",
-  focus: ["Mobile development", "Backend engineering", "Web experiences"],
+
+  roles: [
+    "Software Developer",
+    "Mobile App Developer",
+    "UI/UX Designer"
+  ],
+
+  expertise: [
+    "Mobile Application Development",
+    "Backend Development",
+    "Web Development",
+    "UI/UX Design"
+  ],
+
   selectedWork: {
     "PICKY-X": "Application development",
     "MQuiz": "Complete application development",
     "GlobalBill": "Backend development"
   },
-  philosophy: "Make it useful. Make it intuitive. Keep improving."
+
+  philosophy: "Build useful products. Keep improving."
 };
 ```
 
@@ -44,41 +94,24 @@ const ayomiposi = {
 
 <div align="center">
 
-### 🧰 Technology & Tools
-
-<img src="https://skillicons.dev/icons?i=dart,flutter,html,css,git,github,figma,vscode&theme=dark&perline=8" alt="Technology icons: Dart, Flutter, HTML, CSS, Git, GitHub, Figma, VS Code" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/APP%20DEVELOPMENT-02569B?style=flat-square&logo=flutter&logoColor=white" alt="App Development" />
-<img src="https://img.shields.io/badge/BACKEND%20SYSTEMS-334155?style=flat-square&logo=codeforces&logoColor=white" alt="Backend Systems" />
-<img src="https://img.shields.io/badge/UI%2FUX%20DESIGN-7C3AED?style=flat-square&logo=figma&logoColor=white" alt="UI and UX Design" />
+### 📌 Featured Projects
 
 </div>
 
----
-
-### 📌 Featured Work
-
-| Project | What I worked on | Explore |
-| :-- | :-- | :-- |
-| **PICKY-X** | Mobile application development | [Source code ↗](https://github.com/ayjed/PICKY-X) |
-| **MQuiz** | Complete mobile app development | [View on Google Play ↗](https://play.google.com/store/apps/details?id=com.togafrica.mquiz) |
-| **GlobalBill** | Backend systems and services | [View on Google Play ↗](https://play.google.com/store/apps/details?id=com.togafrica.globalbill) |
-| **Motekra** | Developer portfolio and product brand | [Visit website ↗](https://www.motekra.com) |
-
-<sub>Some published applications are showcased through their store listings because their source repositories are not public.</sub>
+| Project | My Role | Explore |
+|:---|:---|:---|
+| **PICKY-X** | Mobile application development | [Source Code](https://github.com/ayjed/PICKY-X) |
+| **MQuiz** | Complete mobile application development | [Google Play](https://play.google.com/store/apps/details?id=com.togafrica.mquiz) |
+| **GlobalBill** | Backend systems and services | [Google Play](https://play.google.com/store/apps/details?id=com.togafrica.globalbill) |
+| **Motekra** | Developer portfolio and digital brand | [Visit Website](https://www.motekra.com) |
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Activity
+### 📊 GitHub Statistics
 
-<!-- This streak card displays live data. It is not a manually entered number. -->
-<img src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="Live GitHub contribution streak for ayjed" />
-
-<sub>For GitHub's official contribution history, see the activity graph below this README.</sub>
+<img src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
 </div>
 
@@ -86,16 +119,9 @@ const ayomiposi = {
 
 <div align="center">
 
-### 🐍 My Contributions, in Motion
+### 🛠️ Skills & Tools
 
-<!-- Generated by .github/workflows/snake.yml in the output branch. The animation appears after the workflow's first successful run. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg" width="100%" alt="Animated snake moving through Ayomiposi Akinwumi's real GitHub contributions" />
-</picture>
-
-<sub>Animated from public GitHub contributions. Updated by GitHub Actions.</sub>
+<img src="https://skillicons.dev/icons?i=dart,flutter,html,css,git,github,figma,vscode&theme=dark&perline=8" alt="Skills and Tools" />
 
 </div>
 
@@ -103,16 +129,20 @@ const ayomiposi = {
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 🤝 Connect With Me
 
-<a href="https://github.com/ayjed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.motekra.com"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Motekra portfolio" /></a>
+<a href="https://github.com/ayjed">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.motekra.com">
+  <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 
-<br /><br />
+<br><br>
 
-*Building software that's practical, intuitive, and worth using.*
+*Good software solves real problems. Great software makes the solution feel simple.*
 
-**Open to thoughtful collaborations and interesting product ideas.**
+**Open to collaborations, interesting projects, and new opportunities.**
 
 <sub>Ayomiposi Akinwumi · @ayjed · Motekra</sub>
 
