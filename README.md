@@ -16,7 +16,12 @@
 </p>
 
 <h3>
-  <img src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=%2338BDF8" width="20" height="20" alt="" />
+  <img
+    src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=%2338BDF8"
+    width="20"
+    height="20"
+    alt=""
+  />
   Building Mobile, Web & Digital Experiences
 </h3>
 
@@ -31,7 +36,12 @@
 <div align="center">
 
 <h3>
-  <img src="https://api.iconify.design/lucide/wrench.svg?color=%2338BDF8" width="19" height="19" alt="" />
+  <img
+    src="https://api.iconify.design/lucide/wrench.svg?color=%2338BDF8"
+    width="19"
+    height="19"
+    alt=""
+  />
   Skills & Tools
 </h3>
 
@@ -45,19 +55,22 @@
 ---
 
 <h3>
-  <img src="https://api.iconify.design/lucide/code-2.svg?color=%2338BDF8" width="19" height="19" alt="" />
+  <img
+    src="https://api.iconify.design/lucide/code-2.svg?color=%2338BDF8"
+    width="19"
+    height="19"
+    alt=""
+  />
   What I'm Currently Working On
 </h3>
 
 ```javascript
-const ayomiposi = {
-  name: "Ayomiposi Akinwumi",
-  brand: "Motekra",
-  roles: ["Software Developer", "Mobile App Developer", "UI/UX Designer"],
-  focus: ["Mobile Apps", "Backend Systems", "Digital Experiences"],
-  tools: ["Flutter", "Dart", "Figma", "Git"],
-  projects: ["PICKY-X", "MQuiz", "GlobalBill"],
-  philosophy: "Build. Design. Improve. Repeat."
+const currentFocus = {
+  mobile: "Building Flutter applications",
+  backend: "Developing APIs and reliable systems",
+  design: "Creating intuitive UI/UX experiences",
+  web: "Improving Motekra's digital presence",
+  approach: "Build. Test. Improve. Ship."
 };
 ```
 
@@ -66,7 +79,12 @@ const ayomiposi = {
 <div align="center">
 
 <h3>
-  <img src="https://api.iconify.design/lucide/activity.svg?color=%2338BDF8" width="19" height="19" alt="" />
+  <img
+    src="https://api.iconify.design/lucide/activity.svg?color=%2338BDF8"
+    width="19"
+    height="19"
+    alt=""
+  />
   GitHub Statistics
 </h3>
 
@@ -133,37 +151,29 @@ SNAKE SECTION - END -->
 <div align="center">
 
 <h3>
-  <img src="https://api.iconify.design/lucide/mail.svg?color=%2338BDF8" width="19" height="19" alt="" />
-  Connect With Me
+  <img
+    src="https://api.iconify.design/lucide/mail.svg?color=%2338BDF8"
+    width="19"
+    height="19"
+    alt=""
+  />
+  Connect with me:
 </h3>
 
-<p>
-  <a href="https://www.motekra.com">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-  <a href="https://github.com/ayjed?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/MY%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"
-      alt="My Projects"
-    />
-  </a>
-  <a href="https://github.com/ayjed/PICKY-X">
-    <img
-      src="https://img.shields.io/badge/PICKY--X-000000?style=for-the-badge&logo=flutter&logoColor=white"
-      alt="PICKY-X"
-    />
-  </a>
+<p align="center">
+  <a href="https://github.com/ayjed" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.motekra.com" title="Motekra Portfolio"><img src="https://raw.githubusercontent.com/ayjed/MOTEKRA/main/public/assets/brand/motekra-mark.png" width="44" height="44" alt="Motekra" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akinwumi-ayomiposi/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/2347067664476" title="Chat on WhatsApp"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="44" height="44" alt="WhatsApp" /></a>
 </p>
 
-<br>
+<p align="center">
+  Open to collaborations, exciting projects,
+  and new opportunities.
+</p>
 
-**Open to collaborations, exciting projects, and new opportunities.**
-
-<br><br>
-
-<sub>Ayomiposi Akinwumi · @ayjed · Motekra</sub>
+<p align="center">
+  <sub>Ayomiposi Akinwumi · @ayjed · Motekra</sub>
+</p>
 
 </div>
