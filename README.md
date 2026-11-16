@@ -100,18 +100,6 @@ const currentFocus = {
 
 ---
 
-<!--
-CONTRIBUTION SNAKE ANIMATION
-
-Temporarily hidden until GitHub Actions
-successfully generates the output branch.
-
-Remove the surrounding comment markers
-once the animation files are available.
--->
-
-<!-- SNAKE SECTION - START
-
 <div align="center">
 
 <h3>Contribution Activity</h3>
@@ -135,8 +123,6 @@ once the animation files are available.
 </div>
 
 ---
-
-SNAKE SECTION - END -->
 
 <div align="center">
 
