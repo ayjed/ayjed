@@ -102,6 +102,31 @@ const currentFocus = {
 
 <div align="center">
 
+<div align="center">
+
+<h3>
+  <img
+    src="https://api.iconify.design/lucide/code-2.svg?color=%2338BDF8"
+    width="19"
+    height="19"
+    alt=""
+  />
+  Most Used Languages
+</h3>
+
+<a href="https://github.com/ayjed?tab=repositories">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
+    alt="Most Used Languages"
+    width="58%"
+  />
+</a>
+
+</div>
+
+---
+
+
 <h3>Contribution Activity</h3>
 
 <picture>
