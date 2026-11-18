@@ -96,23 +96,6 @@ const currentFocus = {
   />
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-<div align="center">
-
-<h3>
-  <img
-    src="https://api.iconify.design/lucide/code-2.svg?color=%2338BDF8"
-    width="19"
-    height="19"
-    alt=""
-  />
-  Most Used Languages
-</h3>
 
 <a href="https://github.com/ayjed?tab=repositories">
   <img
