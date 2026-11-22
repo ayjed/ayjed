@@ -1,68 +1,86 @@
 
+<!-- AYOMIPOSI AKINWUMI | GITHUB PROFILE -->
+
 <div align="center">
 
-<!-- Animated Introduction -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1200&color=329DFD&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I%27m+Ayomiposi+Akinwumi;Software+Developer;Mobile+App+Developer;UI%2FUX+Designer"
-  alt="Ayomiposi Akinwumi"
-/>
+<h3>Hi, I'm Ayomiposi Akinwumi</h3>
 
-<!-- Profile Views -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=600&height=34&lines=Software+Developer;Mobile+App+Developer;UI%2FUX+Designer" alt="Animated Professional Titles"/>
+
 <p>
-  <img
-    src="https://komarev.com/ghpvc/?username=ayjed&label=Profile%20Views&color=0891B2&style=flat"
-    alt="Profile Views"
-  />
+<img src="https://komarev.com/ghpvc/?username=ayjed&label=Profile%20Views&color=0891B2&style=flat" alt="Profile Views"/>
 </p>
 
-<h3>
-  <img
-    src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=%2338BDF8"
-    width="20"
-    height="20"
-    alt=""
-  />
-  Building Mobile, Web & Digital Experiences
-</h3>
+<p><strong>I turn complex ideas into simple, functional products.</strong></p>
 
-**Building useful software, intuitive mobile apps, and thoughtful digital experiences.**
+<p>
+I work on mobile apps, backend systems, and UI/UX design.
+I enjoy building products that solve real problems and are easy to use.
+</p>
 
-*Turning ideas into digital experiences that matter.*
+<img src="https://img.shields.io/badge/Open_to-Opportunities-0D1117?style=flat&logoColor=38BDF8" alt="Open to Opportunities"/>
 
 </div>
 
----
+<!-- SKILLS & TOOLS -->
+<details open>
+<summary><strong>Skills & Tools</strong></summary>
 
 <div align="center">
 
-<h3>
-  <img
-    src="https://api.iconify.design/lucide/wrench.svg?color=%2338BDF8"
-    width="19"
-    height="19"
-    alt=""
-  />
-  Skills & Tools
-</h3>
+<h4>Languages & Frameworks</h4>
 
-<img
-  src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,git,github,docker,figma,vscode,postman&theme=dark&perline=9"
-  alt="Skills and Tools"
-/>
+<img src="https://skillicons.dev/icons?i=php,js,html,css,dart,flutter,mysql&theme=dark&perline=7" alt="Languages and Frameworks"/>
+
+<h4>Development & Design Tools</h4>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=5" alt="Development and Design Tools"/>
 
 </div>
+</details>
 
----
+<!-- GITHUB STATISTICS -->
+<details open>
+<summary><strong>GitHub Statistics</strong></summary>
 
-<h3>
-  <img
-    src="https://api.iconify.design/lucide/code-2.svg?color=%2338BDF8"
-    width="19"
-    height="19"
-    alt=""
-  />
-  What I'm Currently Working On
-</h3>
+<div align="center">
+
+<a href="https://github.com/ayjed"><img src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub Streak Statistics" width="65%"/></a>
+
+<a href="https://github.com/ayjed?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most Used Languages" width="48%"/></a>
+
+</div>
+</details>
+
+<!-- CONTRIBUTION ACTIVITY -->
+<details open>
+<summary><strong>Contribution Activity</strong></summary>
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+</picture>
+
+</div>
+</details>
+
+<!-- DEVELOPER QUOTES -->
+<details open>
+<summary><strong>Developer Quotes</strong></summary>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&weight=500&duration=3200&pause=2200&color=38BDF8&center=true&vCenter=true&width=1050&height=48&repeat=true&lines=Design+is+how+it+works.+-+Steve+Jobs;Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds;The+best+way+to+predict+the+future+is+to+invent+it.+-+Alan+Kay;Good+programmers+write+code+that+humans+can+understand.+-+Martin+Fowler;Premature+optimization+is+the+root+of+all+evil.+-+Donald+Knuth;Simplicity+is+prerequisite+for+reliability.+-+Edsger+Dijkstra;Debugging+is+twice+as+hard+as+writing+the+code.+-+Brian+Kernighan" alt="Animated Developer Quotes" width="100%"/>
+
+</div>
+</details>
+
+<!-- WHAT I'M CURRENTLY WORKING ON -->
+<details open>
+<summary><strong>What I'm Currently Working On</strong></summary>
 
 ```javascript
 const currentFocus = {
@@ -70,105 +88,36 @@ const currentFocus = {
   backend: "Developing APIs and reliable systems",
   design: "Creating intuitive UI/UX experiences",
   web: "Improving Motekra's digital presence",
+  projects: ["MOTEKRA", "PICKY-X"],
   approach: "Build. Test. Improve. Ship."
 };
 ```
 
----
+</details>
+
+<!-- THANKS FOR VISITING -->
+<details open>
+<summary><strong>Thanks for Visiting</strong></summary>
 
 <div align="center">
 
-<h3>
-  <img
-    src="https://api.iconify.design/lucide/activity.svg?color=%2338BDF8"
-    width="19"
-    height="19"
-    alt=""
-  />
-  GitHub Statistics
-</h3>
+<!-- CUSTOM ANIMATED BANNER -->
+<img
+  src="https://raw.githubusercontent.com/ayjed/ayjed/main/assets/thanks-banner.svg"
+  alt="Thanks for visiting! Animated blue wave banner"
+  width="100%"
+/>
 
-<a href="https://github.com/ayjed">
-  <img
-    src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8"
-    alt="GitHub Streak Statistics"
-    width="75%"
-  />
-</a>
-
-
-<a href="https://github.com/ayjed?tab=repositories">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-    alt="Most Used Languages"
-    width="58%"
-  />
-</a>
-
-</div>
-
----
-
-
-<h3>Contribution Activity</h3>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-*Good software solves real problems. Great design makes it easier to use.*
-
-**Building digital experiences that are practical, intuitive, and worth using.**
-
-</div>
-
----
-
-<div align="center">
-
-<h3>
-  <img
-    src="https://api.iconify.design/lucide/mail.svg?color=%2338BDF8"
-    width="19"
-    height="19"
-    alt=""
-  />
-  Connect with me:
-</h3>
-
-<p align="center">
-  <a href="https://github.com/ayjed" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://www.motekra.com" title="Motekra Portfolio"><img src="https://raw.githubusercontent.com/ayjed/MOTEKRA/main/public/assets/brand/motekra-mark.png" width="44" height="44" alt="Motekra" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/akinwumi-ayomiposi/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://wa.me/2347067664476" title="Chat on WhatsApp"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="44" height="44" alt="WhatsApp" /></a>&nbsp;&nbsp;
-  <a href="mailto:akinwumiayomiposi76@gmail.com" title="Send me an Email"><img src="https://api.iconify.design/logos/google-gmail.svg" width="44" height="44" alt="Email" /></a>
+<!-- CONTACT ICONS -->
+<p>
+<a href="https://github.com/ayjed" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="GitHub"/></a>
+<a href="https://www.motekra.com" title="Motekra Portfolio"><img src="https://raw.githubusercontent.com/ayjed/MOTEKRA/main/public/assets/brand/motekra-mark.png" width="40" height="40" alt="Motekra"/></a>
+<a href="https://www.linkedin.com/in/akinwumi-ayomiposi/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"/></a>
+<a href="https://wa.me/2347067664476" title="WhatsApp"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="40" height="40" alt="WhatsApp"/></a>
+<a href="mailto:akinwumiayomiposi76@gmail.com" title="Email"><img src="https://api.iconify.design/logos/google-gmail.svg" width="40" height="40" alt="Email"/></a>
 </p>
 
-<p align="center">
-  Open to collaborations, exciting projects,
-  and new opportunities.
-</p>
-
-<p align="center">
-  <sub>Ayomiposi Akinwumi · @ayjed · Motekra</sub>
-</p>
+<sub>Open to collaborations, exciting projects, and new opportunities.</sub>
 
 </div>
+</details>
