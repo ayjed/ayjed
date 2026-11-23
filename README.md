@@ -99,21 +99,22 @@ const currentFocus = {
 
 <div align="center">
 
-<!-- ORIGINAL CAPSULE RENDER WAVE -->
+<table>
+<tr>
+<td align="center">
+
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=110&section=header&text=Thanks%20for%20visiting!&fontSize=29&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=150&section=header&text=Thanks%20for%20visiting!&fontSize=29&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"
   alt="Thanks for Visiting"
   width="100%"
 />
 
-<!-- AUTOMATIC ANIMATED MESSAGE -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1800&color=38BDF8&center=true&vCenter=true&width=900&height=45&repeat=true&lines=Keep+coding%2C+stay+innovative%2C+and+build+the+future!;Keep+Learning.+Keep+Building.+Keep+Growing.;Let's+create+something+amazing!"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1800&color=38BDF8&center=true&vCenter=true&width=900&height=45&repeat=true&lines=Keep+coding%2C+stay+innovative%2C+and+build+the+future!;Keep+Learning.+Keep+Building.+Keep+Growing.;Let's+create+something+amazing!"
   alt="Animated Closing Message"
   width="100%"
 />
 
-<!-- CONTACT ICONS -->
 <p align="center">
 <a href="https://github.com/ayjed" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="GitHub"/></a>
 <a href="https://www.motekra.com" title="Motekra Portfolio"><img src="https://raw.githubusercontent.com/ayjed/MOTEKRA/main/public/assets/brand/motekra-mark.png" width="40" height="40" alt="Motekra"/></a>
@@ -124,12 +125,15 @@ const currentFocus = {
 
 <sub>Open to collaborations, exciting projects, and new opportunities.</sub>
 
-<!-- ORIGINAL GRADIENT FOOTER -->
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:9333EA,100:38BDF8&height=3&section=footer"
-  alt="Gradient Footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:9333EA,100:38BDF8&height=50&section=footer&animation=fadeIn"
+  alt="Animated Gradient Footer"
   width="100%"
 />
+
+</td>
+</tr>
+</table>
 
 </div>
 </details>
