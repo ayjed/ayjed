@@ -3,8 +3,10 @@
 
 <div align="center">
 
-<h3>Hi, I'm Ayomiposi Akinwumi</h3>
+<!-- STATIC NAME -->
+<h2>Hi, I'm Ayomiposi Akinwumi</h2>
 
+<!-- ANIMATED PROFESSIONAL TITLES -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=600&height=34&lines=Software+Developer;Mobile+App+Developer;UI%2FUX+Designer" alt="Animated Professional Titles"/>
 
 <p>
@@ -106,7 +108,7 @@ const currentFocus = {
 
 <!-- AUTOMATIC ANIMATED MESSAGE -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1800&color=38BDF8&center=true&vCenter=true&width=900&height=45&repeat=true&lines=Keep+coding%2C+stay+innovative%2C+and+build+the+future!;Keep+Learning.+Keep+Building.+Keep+Growing.;Let's+create+something+amazing!"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1800&color=38BDF8&center=true&vCenter=true&width=900&height=45&repeat=true&lines=Keep+coding%2C+stay+innovative%2C+and+build+the+future!;Keep+Learning.+Keep+Building.+Keep+Growing.;Let's+create+something+amazing!"
   alt="Animated Closing Message"
   width="100%"
 />
@@ -131,3 +133,5 @@ const currentFocus = {
 
 </div>
 </details>
+
+
