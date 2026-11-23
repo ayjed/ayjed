@@ -40,14 +40,40 @@ I enjoy building products that solve real problems and are easy to use.
 </div>
 </details>
 
+
+
 <!-- GITHUB STATISTICS -->
 <details open>
 <summary><strong>GitHub Statistics</strong></summary>
+
 <div align="center">
 
-<a href="https://github.com/ayjed"><img src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub Streak Statistics" width="65%"/></a>
+<!-- STREAK STATISTICS FIRST -->
+<a href="https://github.com/ayjed"><img
+  src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E"
+  alt="GitHub Streak Statistics"
+  width="60%"
+/></a>
 
-<a href="https://github.com/ayjed?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most Used Languages" width="48%"/></a>
+<!-- GITHUB STATS AND LANGUAGES SIDE BY SIDE -->
+<p align="center">
+<a href="https://github.com/ayjed"><img
+  src="https://github-readme-stats.vercel.app/api?username=ayjed&show_icons=true&include_all_commits=true&hide_border=true&custom_title=GitHub%20Stats%20%26%20Grade&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&ring_color=38BDF8&card_width=500&line_height=30&rank_icon=default"
+  alt="GitHub Stats and Grade"
+  width="49%"
+  align="top"
+/></a><a href="https://github.com/ayjed?tab=repositories"><img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=8&hide_border=true&custom_title=Most%20Used%20Languages&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&card_width=500"
+  alt="Most Used Languages"
+  width="49%"
+  align="top"
+/></a>
+</p>
+
+</div>
+
+</details>
+
 
 </div>
 </details>
