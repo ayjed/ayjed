@@ -1,18 +1,18 @@
 
-<!-- AYOMIPOSI AKINWUMI | GITHUB PROFILE -->
+<!-- AYJED | GITHUB PROFILE -->
 
 <div align="center">
 
-<!-- ANIMATED NAME AND SKILLS HEADER -->
+<!-- PREMIUM PROFILE HEADER -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:171B22,50:292D33,100:11151B&height=210&section=header&text=Ayomiposi%20Akinwumi&fontSize=48&fontColor=FFFFFF&fontAlignY=34&desc=Software%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20UI%2FUX%20Designer&descSize=17&descAlign=50&descAlignY=57&animation=fadeIn"
-  alt="Ayomiposi Akinwumi - Software Developer, Mobile App Developer, UI/UX Designer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2025,50:292D32,100:171B20&height=210&section=header&text=Ayjed&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20UI%2FUX%20Designer&descSize=15&descAlign=50&descAlignY=60&descColor=E5E7EB&animation=fadeIn"
+  alt="Ayjed - Software Developer | UI/UX Designer"
   width="100%"
 />
 
 <!-- ORIGINAL THREE ANIMATED MESSAGES -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1800&color=38BDF8&center=true&vCenter=true&width=900&height=35&repeat=true&lines=Keep+coding%2C+stay+innovative%2C+and+build+the+future!;Keep+Learning.+Keep+Building.+Keep+Growing.;Let's+create+something+amazing!"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1800&color=A9BDD0&center=true&vCenter=true&width=900&height=40&repeat=true&lines=Keep+coding%2C+stay+innovative%2C+and+build+the+future!;Keep+Learning.+Keep+Building.+Keep+Growing.;Let's+create+something+amazing!"
   alt="Animated Developer Message"
   width="100%"
 />
@@ -20,7 +20,7 @@
 <!-- PROFILE VIEWS -->
 <p>
   <img
-    src="https://komarev.com/ghpvc/?username=ayjed&label=Profile%20Views&color=0891B2&style=flat"
+    src="https://komarev.com/ghpvc/?username=ayjed&label=Profile%20Views&color=1C2025&style=flat"
     alt="Profile Views"
   />
 </p>
@@ -35,7 +35,7 @@
 </p>
 
 <img
-  src="https://img.shields.io/badge/Open_to-Opportunities-0D1117?style=flat&logoColor=38BDF8"
+  src="https://img.shields.io/badge/Open_to-Opportunities-292D32?style=flat&logoColor=A9BDD0"
   alt="Open to Opportunities"
 />
 
@@ -74,7 +74,7 @@
 <!-- GITHUB STREAK FIRST -->
 <a href="https://github.com/ayjed">
   <img
-    src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=A9BDD0&fire=8298B0&currStreakLabel=A9BDD0&sideLabels=C9D1D9&dates=8B949E"
     alt="GitHub Streak Statistics"
     width="60%"
   />
@@ -88,7 +88,7 @@
 <!-- GITHUB STATS & GRADE -->
 <a href="https://github.com/ayjed">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ayjed&show_icons=true&include_all_commits=true&hide_border=false&border_color=30363D&border_radius=8&custom_title=GitHub%20Stats%20%26%20Grade&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&ring_color=38BDF8&card_width=500&line_height=30&rank_icon=default"
+    src="https://github-readme-stats.vercel.app/api?username=ayjed&show_icons=true&include_all_commits=true&hide_border=false&border_color=353B44&border_radius=8&custom_title=GitHub%20Stats%20%26%20Grade&bg_color=171B20&title_color=A9BDD0&text_color=C9D1D9&icon_color=8298B0&ring_color=A9BDD0&card_width=500&line_height=30&rank_icon=default"
     alt="GitHub Stats and Grade"
     width="100%"
   />
@@ -100,7 +100,7 @@
 <!-- MOST USED LANGUAGES -->
 <a href="https://github.com/ayjed?tab=repositories">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=8&hide_border=false&border_color=30363D&border_radius=8&custom_title=Most%20Used%20Languages&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&card_width=500"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=8&hide_border=false&border_color=353B44&border_radius=8&custom_title=Most%20Used%20Languages&bg_color=171B20&title_color=A9BDD0&text_color=C9D1D9&card_width=500"
     alt="Most Used Languages"
     width="100%"
   />
@@ -120,7 +120,16 @@
 
 <div align="center">
 
-<!-- PAC-MAN CONTRIBUTION ANIMATION -->
+<!-- CONTRIBUTION GRAPH FIRST -->
+<a href="https://github.com/ayjed">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ayjed&bg_color=0D1117&color=A9BDD0&line=8298B0&point=D6E0EA&area=true&area_color=292D32&hide_border=true&custom_title=Contribution%20Activity"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</a>
+
+<!-- PAC-MAN BELOW CONTRIBUTION GRAPH -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -137,15 +146,6 @@
   />
 </picture>
 
-<!-- GITHUB CONTRIBUTION GRAPH BELOW PAC-MAN -->
-<a href="https://github.com/ayjed">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ayjed&bg_color=0D1117&color=38BDF8&line=38BDF8&point=A78BFA&area=true&area_color=2563EB&hide_border=true&custom_title=Contribution%20Activity"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</a>
-
 </div>
 
 </details>
@@ -156,8 +156,9 @@
 
 <div align="center">
 
+<!-- MATCHING ANIMATED TEXT COLOR AND FONT -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&weight=500&duration=3200&pause=2200&color=38BDF8&center=true&vCenter=true&width=1050&height=48&repeat=true&lines=Design+is+how+it+works.+-+Steve+Jobs;Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds;The+best+way+to+predict+the+future+is+to+invent+it.+-+Alan+Kay;Good+programmers+write+code+that+humans+can+understand.+-+Martin+Fowler;Premature+optimization+is+the+root+of+all+evil.+-+Donald+Knuth;Simplicity+is+prerequisite+for+reliability.+-+Edsger+Dijkstra;Debugging+is+twice+as+hard+as+writing+the+code.+-+Brian+Kernighan"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&weight=500&duration=3200&pause=2200&color=A9BDD0&center=true&vCenter=true&width=1050&height=48&repeat=true&lines=Design+is+how+it+works.+-+Steve+Jobs;Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds;The+best+way+to+predict+the+future+is+to+invent+it.+-+Alan+Kay;Good+programmers+write+code+that+humans+can+understand.+-+Martin+Fowler;Premature+optimization+is+the+root+of+all+evil.+-+Donald+Knuth;Simplicity+is+prerequisite+for+reliability.+-+Edsger+Dijkstra;Debugging+is+twice+as+hard+as+writing+the+code.+-+Brian+Kernighan"
   alt="Animated Developer Quotes"
   width="100%"
 />
@@ -202,7 +203,7 @@ const currentFocus = {
 
 <!-- APPROVED 105PX FOOTER WAVE -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:374151,100:111827&height=105&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2025,50:292D32,100:171B20&height=105&section=footer"
   alt="Wave Footer"
   width="100%"
 />
