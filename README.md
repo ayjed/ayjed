@@ -3,29 +3,35 @@
 
 <div align="center">
 
-<!-- STATIC NAME -->
-<h2>Hi, I'm Ayomiposi Akinwumi</h2>
-
-<!-- ANIMATED PROFESSIONAL TITLES -->
+<!-- ANIMATED NAME AND SKILLS HEADER -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=600&height=34&lines=Software+Developer;Mobile+App+Developer;UI%2FUX+Designer"
-  alt="Animated Professional Titles"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:171B22,50:292D33,100:11151B&height=210&section=header&text=Ayomiposi%20Akinwumi&fontSize=48&fontColor=FFFFFF&fontAlignY=34&desc=Software%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20UI%2FUX%20Designer&descSize=17&descAlign=50&descAlignY=57&animation=fadeIn"
+  alt="Ayomiposi Akinwumi - Software Developer, Mobile App Developer, UI/UX Designer"
+  width="100%"
 />
 
+<!-- ORIGINAL THREE ANIMATED MESSAGES -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1800&color=38BDF8&center=true&vCenter=true&width=900&height=35&repeat=true&lines=Keep+coding%2C+stay+innovative%2C+and+build+the+future!;Keep+Learning.+Keep+Building.+Keep+Growing.;Let's+create+something+amazing!"
+  alt="Animated Developer Message"
+  width="100%"
+/>
+
+<!-- PROFILE VIEWS -->
 <p>
-<img
-  src="https://komarev.com/ghpvc/?username=ayjed&label=Profile%20Views&color=0891B2&style=flat"
-  alt="Profile Views"
-/>
+  <img
+    src="https://komarev.com/ghpvc/?username=ayjed&label=Profile%20Views&color=0891B2&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <p>
-<strong>I turn complex ideas into simple, functional products.</strong>
+  <strong>I turn complex ideas into simple, functional products.</strong>
 </p>
 
 <p>
-I work on mobile apps, backend systems, and UI/UX design.
-I enjoy building products that solve real problems and are easy to use.
+  I work on mobile apps, backend systems, and UI/UX design.
+  I enjoy building products that solve real problems and are easy to use.
 </p>
 
 <img
@@ -65,30 +71,44 @@ I enjoy building products that solve real problems and are easy to use.
 
 <div align="center">
 
-<!-- STREAK STATISTICS FIRST -->
-<a href="https://github.com/ayjed"><img
-  src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E"
-  alt="GitHub Streak Statistics"
-  width="60%"
-/></a>
+<!-- GITHUB STREAK FIRST -->
+<a href="https://github.com/ayjed">
+  <img
+    src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub Streak Statistics"
+    width="60%"
+  />
+</a>
 
-<!-- STATS AND LANGUAGES SIDE BY SIDE -->
-<p align="center">
+<!-- TWO PROFESSIONALLY ALIGNED STATISTICS CARDS -->
+<table align="center">
+<tr>
+<td align="center" valign="top" width="50%">
 
 <!-- GITHUB STATS & GRADE -->
-<a href="https://github.com/ayjed"><img
-  src="https://github-readme-stats.vercel.app/api?username=ayjed&show_icons=true&include_all_commits=true&hide_border=false&border_color=30363D&border_radius=8&custom_title=GitHub%20Stats%20%26%20Grade&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&ring_color=38BDF8&card_width=500&line_height=30&rank_icon=default"
-  alt="GitHub Stats and Grade"
-  width="49%"
-  align="top"
-/></a><a href="https://github.com/ayjed?tab=repositories"><img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=8&hide_border=false&border_color=30363D&border_radius=8&custom_title=Most%20Used%20Languages&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&card_width=500"
-  alt="Most Used Languages"
-  width="49%"
-  align="top"
-/></a>
+<a href="https://github.com/ayjed">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ayjed&show_icons=true&include_all_commits=true&hide_border=false&border_color=30363D&border_radius=8&custom_title=GitHub%20Stats%20%26%20Grade&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&ring_color=38BDF8&card_width=500&line_height=30&rank_icon=default"
+    alt="GitHub Stats and Grade"
+    width="100%"
+  />
+</a>
 
-</p>
+</td>
+<td align="center" valign="top" width="50%">
+
+<!-- MOST USED LANGUAGES -->
+<a href="https://github.com/ayjed?tab=repositories">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayjed&layout=compact&langs_count=8&hide_border=false&border_color=30363D&border_radius=8&custom_title=Most%20Used%20Languages&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&card_width=500"
+    alt="Most Used Languages"
+    width="100%"
+  />
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -100,21 +120,31 @@ I enjoy building products that solve real problems and are easy to use.
 
 <div align="center">
 
+<!-- PAC-MAN CONTRIBUTION ANIMATION -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/ayjed/ayjed/output/pacman-contribution-graph.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/ayjed/ayjed/output/github-snake-dark.svg"
-    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ayjed/ayjed/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man GitHub Contribution Animation"
     width="100%"
   />
 </picture>
+
+<!-- GITHUB CONTRIBUTION GRAPH BELOW PAC-MAN -->
+<a href="https://github.com/ayjed">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ayjed&bg_color=0D1117&color=38BDF8&line=38BDF8&point=A78BFA&area=true&area_color=2563EB&hide_border=true&custom_title=Contribution%20Activity"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</a>
 
 </div>
 
@@ -153,31 +183,13 @@ const currentFocus = {
 
 </details>
 
-<!-- THANKS FOR VISITING -->
+<!-- CONTACT ME -->
 <details open>
-<summary><strong>Thanks for Visiting</strong></summary>
+<summary><strong>Contact Me</strong></summary>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-<!-- ORIGINAL BLUE WAVING BANNER -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=150&section=header&text=Thanks%20for%20visiting!&fontSize=29&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"
-  alt="Thanks for Visiting"
-  width="100%"
-/>
-
-<!-- ANIMATED CLOSING MESSAGE -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1800&color=38BDF8&center=true&vCenter=true&width=900&height=45&repeat=true&lines=Keep+coding%2C+stay+innovative%2C+and+build+the+future!;Keep+Learning.+Keep+Building.+Keep+Growing.;Let's+create+something+amazing!"
-  alt="Animated Closing Message"
-  width="100%"
-/>
-
-<!-- CONTACT ICONS -->
+<!-- ORIGINAL CONTACT ICONS AND LINKS -->
 <p align="center">
 <a href="https://github.com/ayjed" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="GitHub"/></a>
 <a href="https://www.motekra.com" title="Motekra Portfolio"><img src="https://raw.githubusercontent.com/ayjed/MOTEKRA/main/public/assets/brand/motekra-mark.png" width="40" height="40" alt="Motekra"/></a>
@@ -188,16 +200,12 @@ const currentFocus = {
 
 <sub>Open to collaborations, exciting projects, and new opportunities.</sub>
 
-<!-- ANIMATED GRADIENT FOOTER -->
+<!-- APPROVED 105PX FOOTER WAVE -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:9333EA,100:38BDF8&height=50&section=footer&animation=fadeIn"
-  alt="Animated Gradient Footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:374151,100:111827&height=105&section=footer"
+  alt="Wave Footer"
   width="100%"
 />
-
-</td>
-</tr>
-</table>
 
 </div>
 
