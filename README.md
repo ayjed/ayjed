@@ -122,11 +122,12 @@
 
 <!-- CONTRIBUTION GRAPH FIRST -->
 <a href="https://github.com/ayjed">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ayjed&bg_color=0D1117&color=A9BDD0&line=8298B0&point=D6E0EA&area=true&area_color=292D32&hide_border=true&custom_title=Contribution%20Activity"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
+ 
+<img
+  src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ayjed&bg_color=0D1117&color=A9BDD0&line=8298B0&point=D6E0EA&area=true&area_color=292D32&hide_border=true&custom_title=Contribution%20Activity"
+  alt="GitHub Contribution Activity Graph"
+  width="100%"
+/>
 </a>
 
 <!-- PAC-MAN BELOW CONTRIBUTION GRAPH -->
