@@ -74,7 +74,7 @@
 <!-- GITHUB STREAK FIRST -->
 <a href="https://github.com/ayjed">
   <img
-    src="https://streak-stats.demolab.com?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=A9BDD0&fire=8298B0&currStreakLabel=A9BDD0&sideLabels=C9D1D9&dates=8B949E"
+    src="https://streak-stats.demolab.com/?user=ayjed&theme=tokyonight&hide_border=true&background=0D1117&ring=A9BDD0&fire=8298B0&currStreakLabel=A9BDD0&sideLabels=C9D1D9&dates=8B949E"
     alt="GitHub Streak Statistics"
     width="60%"
   />
